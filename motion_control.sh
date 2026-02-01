@@ -127,6 +127,8 @@ REPOS=(
     "https://github.com/rgthree/rgthree-comfy"
     "https://github.com/pythongosssss/ComfyUI-Custom-Scripts"
     "https://github.com/Azornes/Comfyui-Resolution-Master"
+    "https://github.com/kijai/ComfyUI-segment-anything-2"
+    "https://github.com/un-seen/comfyui-tensorops"
 )
 
 # 1. Клонирование репозиториев
